@@ -1,6 +1,6 @@
 # CVE-2020-14064
 Icewarp Mail Server 12.3.0.1 incorrect_access_control
-https://nvd.nist.gov/vuln/detail/CVE-2020-14064
+![alt text](https://nvd.nist.gov/vuln/detail/CVE-2020-14064)
 
 ## Introduction :
 ### first step:  Login to your account and then send request to delete whole inbox and capture this request with Burp suit. (security is attacker account)
